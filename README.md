@@ -17,4 +17,9 @@ This is part of working directory.
 
 ## Merge Conflict :(
 
-I dont want any merge conflict !!! I am happy like this !!! :)
+I dont want any merge conflict !!! I am happy like this !!! :
+
+
+## Rebasing
+
+adding here to learn rebase!!!)
