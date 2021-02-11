@@ -22,4 +22,6 @@ I dont want any merge conflict !!! I am happy like this !!! :
 
 ## Rebasing
 
-adding here to learn rebase!!!)
+adding here to learn rebase!!!
+
+> Adding random lines to the featured branch to merge it in master using git merge command !!!
