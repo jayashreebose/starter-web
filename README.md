@@ -25,3 +25,7 @@ I dont want any merge conflict !!! I am happy like this !!! :
 adding here to learn rebase!!!
 
 > Adding random lines to the featured branch to merge it in master using git merge command !!!
+
+
+
+Adding more line to check rebasing between remote and local repo.
