@@ -14,3 +14,7 @@ this commit will only exist in stagging area
 ## Working Directory
 
 This is part of working directory.
+
+## Merge Conflict :(
+
+I dont want any merge conflict !!! I am happy like this !!! :)
