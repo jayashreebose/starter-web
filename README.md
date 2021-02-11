@@ -13,4 +13,8 @@ this commit will only exist in stagging area
 
 ## Working Directory
 
-This is part of working directory.
+This is part of working directory
+
+## Merge problem
+
+i want to create a merge conflict.
